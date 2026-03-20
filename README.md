@@ -1,7 +1,5 @@
-# pg3d-manual-map-loader
+# pg3d-map-loader
 
-
-description
 
 this is a map injector specifically developed for pixel gun 3d. unlike standard injectors that use the loadlibrary api which is easily flagged by modern anti-cheats this tool functions as a loader. it manually maps dll sections, handles tls callbacks, and resolves imports.
 
