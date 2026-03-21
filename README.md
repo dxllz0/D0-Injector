@@ -1,13 +1,13 @@
-# pg3d-map-loader
+# cs:go-map-Injector
 
 
-this is a map injector specifically developed for pixel gun 3d. unlike standard injectors that use the loadlibrary api which is easily flagged by modern anti-cheats this tool functions as a loader. it manually maps dll sections, handles tls callbacks, and resolves imports.
+this is a map injector specifically developed for CS:GO. unlike standard injectors that use the loadlibrary api which is easily flagged by modern anti-cheats this tool functions as a loader. it manually maps dll sections, handles tls callbacks, and resolves imports.
 
 # HOW TO USE
 
-    launch the game: start pixel gun 3d via steam and wait until you reach the main menu.
+    launch the game: start CS:GO via steam and wait until you reach the main menu.
 
-    run the exe.
+    run the Injector
 
     provide path: copy the full path to your dll and paste it into the console.
 
