@@ -1,7 +1,8 @@
 # cs:go-map-Injector
 
 
-this is a map injector specifically developed for CS:GO. unlike standard injectors that use the loadlibrary api which is easily flagged by modern anti-cheats this tool functions as a loader. it manually maps dll sections, handles tls callbacks, and resolves imports.
+this is a map injector specifically developed for CS:GO. unlike standard injectors that use the loadlibrary api which is easily flagged
+this tool functions as a loader. it manually maps dll sections, handles tls callbacks, and resolves imports.
 
 # HOW TO USE
 
