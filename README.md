@@ -3,7 +3,13 @@
 
 A free Advanced Injector for the Valve game CS:GO
 
-(THIS PROJECT WILL BE CONSTANTLY UPDATED JUST GIVE ME SOME IDEAS BY ADDING ME ON DISCORD: dxllzq )
+(THIS PROJECT WILL BE CONSTANTLY UPDATED SHARE YOUR IDEAS BY ADDING ME ON DISCORD: dxllzq )
+
+--------------------------------------------------------------------------------------------------------
+
+Бесплатный, продвинутый инжектор для CS:GO от Valve
+
+(Этот проект будет постоянно обновляться делитесь своими идеями добавив меня в Discord: dxllzq)
 
 # HOW TO USE
 
